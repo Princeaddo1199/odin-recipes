@@ -1,0 +1,2 @@
+# odin-recipes
+This is a repository on my learning process on web development with The Odin Project. I am starting with a recipe website. At the end of the day, i should be able to use some HTML tags like the h-tag, p-tag, img-tag, a-tag, section-tag, etc.
